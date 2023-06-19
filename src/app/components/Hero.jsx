@@ -31,7 +31,7 @@ const Hero = () => {
         transition={{ duration: 0.2 }}
       >
         <Image
-          src={"/images/illustration.svg"}
+          src={"/images/pointer1.svg"}
           width={600}
           height={600}
           alt="photo"
